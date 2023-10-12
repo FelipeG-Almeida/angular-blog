@@ -1,0 +1,16 @@
+.menu__title--container {
+    color: #fff;
+}
+
+h1 {
+    display: flex;
+    font-size: 130px;
+    font-weight: 700;
+    margin: 15px auto;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+hr {
+    margin: 15px 0;
+}
