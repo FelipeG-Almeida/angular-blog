@@ -1,10 +1,9 @@
 .container__content {
   align-items: center;
-  border: 1px solid #fff;
   display: flex;
   flex-direction: column;
-  margin-top: 20px;
-  width: 100%;
+  margin: 30px auto;
+  width: 60%;
 }
 
 .content__cover > img {
@@ -13,10 +12,21 @@
   width: 500px;
 }
 
+.content__title > h1 {
+  font-size: 1.75rem;
+  text-align: center;
+}
+
 .content__description {
   margin-top: 15px;
 }
 
+.content__description > a {
+  font-weight: 700;
+}
+
 .content__description > p {
   color: #c0c0c0;
+  font-size: 0.857rem;
+  margin-top: 20px;
 }

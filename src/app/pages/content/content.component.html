@@ -1,16 +1,12 @@
 <div class="container__content">
   <div class="content__cover">
-    <img
-      src="https://esoumdesenho.files.wordpress.com/2014/10/ergo-proxy-analise-30-10-2014-3.png"
-      alt=""
-    />
+    <img src="{{ photoCover }}" alt="" />
   </div>
   <div class="content__title">
-    <h1>Teste</h1>
-    <hr />
+    <h1>{{ contentTitle }}</h1>
   </div>
   <div class="content__description">
     <a [routerLink]="['']">< Voltar</a>
-    <p>Teste</p>
+    <p [innerHTML]="contentDescription"></p>
   </div>
 </div>
