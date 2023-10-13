@@ -1,27 +1,21 @@
-# AngularBlog
+<h1 align="center" id="title">Angular Blog</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+<p align="center"><img src="https://socialify.git.ci/FelipeG-Almeida/angular-blog/image?description=1&amp;font=Bitter&amp;language=1&amp;logo=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Ffile-type-angular-icon-1907x2048-tobdkjt1.png&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Dark" alt="project-image"></p>
 
-## Development server
+<p id="description">Projeto de Blog criando com Angular unicamente para fins didáticos.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="shields"></p>
 
-## Code scaffolding
+<h2>📷 Capturas de Tela</h2>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![localhost_4200_](https://github.com/FelipeG-Almeida/angular-blog/assets/73674044/45f59317-edb8-44a3-8215-8197b6e67182)
 
-## Build
+![localhost_4200_ (1)](https://github.com/FelipeG-Almeida/angular-blog/assets/73674044/f8138856-5969-49d1-836d-7179c8e76c70)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  
+<h2>💻 Construido Com</h2>
 
-## Running unit tests
+Tecnologias usadas no projeto:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+*   Angular
+*   TypeScript
