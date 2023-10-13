@@ -1,22 +1,13 @@
 <div class="container__big-card">
   <div class="big-card__photo">
-    <img
-      src="https://testing-angular.com/assets/img/code-coverage-flickr-search.png"
-      alt="Big Card"
-      height="200px"
-    />
+    <img src="{{ photoCover }}" alt="Big Card" height="200px" />
   </div>
   <div class="big-card__title">
-    <h1><a href="">Saiu a nova versão do Angular</a></h1>
+    <h1>
+      <a href="">{{ cardTitle }}</a>
+    </h1>
   </div>
   <div class="big-card__description">
-    <p>
-      Estamos empolgados em anunciar que a tão aguardada nova versão do Angular
-      acaba de ser lançada! Com aprimoramentos incríveis e recursos inovadores,
-      esta atualização promete elevar sua experiência de desenvolvimento web a
-      um novo patamar. Prepare-se para explorar todas as melhorias que o Angular
-      tem a oferecer. Não perca tempo, faça o download e comece a criar
-      aplicativos web incríveis com a mais recente versão do Angular!
-    </p>
+    <p>{{ cardDescription }}</p>
   </div>
 </div>
